@@ -1,15 +1,30 @@
 {
-  "name": "Reykjavík Repairs",
-  "title": "Reykjavík Repairs - Appliance Repairs in Reykjavík and surrounding areas!",
-  "area": "Reykjavík",
+  "area": "Croydon",
+  "telephone": "01234 567 890",
+  "domain": "croydonrepairs.co.uk",
+  "whatConvertsTrackingCode": 0,
+  "email": "bookings@croydonrepairs.co.uk",
+  "name": "Croydon Repairs",
+  "title": "Croydon Repairs - Appliance Repairs in Croydon and surrounding areas!",
   "nearbyAreas": [
-    "Kópavogur",
-    "Gardabaer",
-    "Mosfellsbær"
-  ],
-  "telephone": "+354 800 8111",
-  "email": "bookings@reykjavikrepairs.co.uk",
-  "domain": "reykjavikrepairs.co.uk",
-  "whatConvertsTrackingCode": 99999,
-  "googleTagManagerId": ""
+    "South Croydon",
+    "Thornton Heath",
+    "Purley",
+    "Carshalton",
+    "Mitcham",
+    "West Wickham",
+    "Beckenham",
+    "Coulsdon",
+    "Morden",
+    "Shortlands",
+    "Whyteleafe",
+    "Sutton",
+    "Warlingham",
+    "Bromley",
+    "Cheam",
+    "Brixton Hill",
+    "Catford",
+    "Banstead",
+    "Earlsfield"
+  ]
 }
